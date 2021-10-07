@@ -10,8 +10,8 @@ namespace Casino_Dice_Roller
 
             //declaring variables
             int sides = 0;
-            int dice1 = 0;
-            int dice2 = 0;
+            int dice1 = 1;
+            int dice2 = 1;
             int score = 0;
             string rollingDice;
             bool keepRolling = true;
@@ -59,9 +59,9 @@ namespace Casino_Dice_Roller
                     else
                     {
                         //user has rolled the dice
-                        dice1 = RandomNumber(randy, sides);
+                        //dice1 = RandomNumber(randy, sides);
                         Console.WriteLine($"Your first dice is a {dice1}");
-                        dice2 = RandomNumber(randy, sides);
+                        //dice2 = RandomNumber(randy, sides);
                         Console.WriteLine($"Your second dice is a {dice2}");
                         score = dice1 + dice2;
                         Console.WriteLine($"That gives you a score of {score}");
@@ -100,7 +100,7 @@ namespace Casino_Dice_Roller
                     Console.WriteLine("Snake Eyes! Two one's!");
 
                 }
-                if (dice1 == 1 && dice2 == 2)
+                else if ((dice1 == 1 && dice2 == 2) || (dice1 == 2 && dice2 == 1))
                 {
                     Console.WriteLine("Ace Deuce! A one and a two!");
 
@@ -110,7 +110,7 @@ namespace Casino_Dice_Roller
                     Console.WriteLine("Boxcar! Two sixes!");
 
                 }
-                if (dice1 + dice2 == 7 || dice1 + dice2 == 11)
+                else if (dice1 + dice2 == 7 || dice1 + dice2 == 11)
                 {
                     Console.WriteLine("Win!");
 
@@ -118,7 +118,6 @@ namespace Casino_Dice_Roller
                 if (dice1 + dice2 == 2 || dice1 + dice2 == 3 || dice1 + dice2 == 12)
                 {
                     Console.WriteLine("Craps!");
-
                 }
             }
         }
