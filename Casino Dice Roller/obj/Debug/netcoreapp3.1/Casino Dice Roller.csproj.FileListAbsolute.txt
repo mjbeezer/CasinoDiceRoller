@@ -1,0 +1,13 @@
+C:\Users\TheTower\source\repos\Casino Dice Roller\Casino Dice Roller\bin\Debug\netcoreapp3.1\Casino Dice Roller.exe
+C:\Users\TheTower\source\repos\Casino Dice Roller\Casino Dice Roller\bin\Debug\netcoreapp3.1\Casino Dice Roller.deps.json
+C:\Users\TheTower\source\repos\Casino Dice Roller\Casino Dice Roller\bin\Debug\netcoreapp3.1\Casino Dice Roller.runtimeconfig.json
+C:\Users\TheTower\source\repos\Casino Dice Roller\Casino Dice Roller\bin\Debug\netcoreapp3.1\Casino Dice Roller.runtimeconfig.dev.json
+C:\Users\TheTower\source\repos\Casino Dice Roller\Casino Dice Roller\bin\Debug\netcoreapp3.1\Casino Dice Roller.dll
+C:\Users\TheTower\source\repos\Casino Dice Roller\Casino Dice Roller\bin\Debug\netcoreapp3.1\Casino Dice Roller.pdb
+C:\Users\TheTower\source\repos\Casino Dice Roller\Casino Dice Roller\obj\Debug\netcoreapp3.1\Casino Dice Roller.csproj.AssemblyReference.cache
+C:\Users\TheTower\source\repos\Casino Dice Roller\Casino Dice Roller\obj\Debug\netcoreapp3.1\Casino Dice Roller.AssemblyInfoInputs.cache
+C:\Users\TheTower\source\repos\Casino Dice Roller\Casino Dice Roller\obj\Debug\netcoreapp3.1\Casino Dice Roller.AssemblyInfo.cs
+C:\Users\TheTower\source\repos\Casino Dice Roller\Casino Dice Roller\obj\Debug\netcoreapp3.1\Casino Dice Roller.csproj.CoreCompileInputs.cache
+C:\Users\TheTower\source\repos\Casino Dice Roller\Casino Dice Roller\obj\Debug\netcoreapp3.1\Casino Dice Roller.dll
+C:\Users\TheTower\source\repos\Casino Dice Roller\Casino Dice Roller\obj\Debug\netcoreapp3.1\Casino Dice Roller.pdb
+C:\Users\TheTower\source\repos\Casino Dice Roller\Casino Dice Roller\obj\Debug\netcoreapp3.1\Casino Dice Roller.genruntimeconfig.cache
